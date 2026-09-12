@@ -1,40 +1,41 @@
-<h1>Hi, I'm Dale! Passionate Cybersecurity Analyst</h1>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# Dale Dalida
 
-- <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure] (https://github.com/DaleDalida1/Azure-SOC)
+**U.S. Navy Veteran | BAT Cybersecurity Graduate | Entry-Level SOC Analyst**
 
-<h2>📺 Popular YouTube Videos</h2>
+I am a U.S. Navy veteran and operations leader transitioning into cybersecurity after earning a Bachelor of Applied Technology in Cybersecurity from Collin College in May 2026. My background combines military discipline, workforce instruction, warehouse leadership, and hands-on cybersecurity projects focused on security monitoring, incident response, threat hunting, cloud security, and user awareness.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+I am pursuing entry-level SOC Analyst, Cybersecurity Analyst, Cyber Defense, and Incident Response opportunities in the Dallas–Fort Worth area or remotely.
 
-<h2> 🤳 Connect with me:</h2>
+## Core Skills
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Security monitoring and alert triage
+- Microsoft Sentinel and Log Analytics
+- Kusto Query Language (KQL)
+- Windows Security Events and Linux Syslog
+- Incident response and evidence preservation
+- Threat hunting and indicator analysis
+- MITRE ATT&CK and NIST incident-response concepts
+- Azure networking, IAM, and cloud-security fundamentals
+- Phishing analysis and security-awareness training
+- Wireshark, Nmap, and endpoint/network analysis
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Featured Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Azure SOC and Honeynet](https://github.com/DaleDalida1/Azure-SOC)
 
-Here are some ideas to get you started:
+Built a cloud-based honeynet in Microsoft Azure, connected Windows and Linux log sources to Log Analytics, and used Microsoft Sentinel to observe alerts, incidents, and network activity before and after security hardening.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Interactive Phishing Awareness Training](https://github.com/DaleDalida1/Cybersecurity-AwarenessTraining-phishing-)
+
+Created an interactive browser-based training module that teaches users to recognize suspicious senders, deceptive domains, urgency, credential requests, gift-card fraud, and other phishing indicators.
+
+## Additional Experience
+
+- Managed inventory, inbound and outbound orders, warehouse organization, and equipment readiness as a warehouse manager.
+- Delivered training and operational instruction during U.S. Navy service.
+- Completed hands-on academic work involving incident response, threat hunting, cloud security, malware analysis, reconnaissance, log analysis, and responsible AI governance.
+
+## Current Development
+
+- Preparing for the CompTIA Security+ SY0-701 exam
+- Expanding my portfolio with incident-response, KQL, threat-hunting, and phishing-detection projects
